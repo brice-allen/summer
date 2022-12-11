@@ -45,7 +45,7 @@ g = [
     "Rap",
     "Jazz Rap",
     "Metal",
-    "Wolrd",
+    "World",
     "Rock",
 ]
 audio_feats = [

@@ -91,8 +91,8 @@ image = Image.open("img/namroud-gorguis-FZWivbri0Xk-unsplash.jpg")
 st.image(image)
 
 # Bring in the data
-st.write("## THE DATA BEING USED")
-track_df
+# st.write("## THE DATA BEING USED")
+# track_df
 st.markdown("# ")
 st.markdown("# ")
 genre = st.sidebar.radio('GENRE', g, index=g.index("Jazz"))

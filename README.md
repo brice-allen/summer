@@ -26,31 +26,31 @@ This is a music recommendation app built using Streamlit, Python, and the Spotif
 
 ```bash
 git clone https://github.com/brice-allen/summer.git
-
+```
 2. Create a virtual environment and activate it:
 
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
-
+```
 3. Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Usage
 
 1. Activate the virtual environment:
 
 ```bash
 source venv/bin/activate  # For Windows: venv\Scripts\activate
-
+```
 2. Run the Streamlit app:
 
 ```bash
 streamlit run app.py
-
+```
 3. Open the provided URL in your web browser to start using the app.
 
 ## Dependencies
